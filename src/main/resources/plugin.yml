@@ -1,0 +1,13 @@
+name: EchoRanks
+version: ${project.version}
+main: dev.echo.echoranks.EchoRanks
+api-version: 1.16
+prefix: ECHORANKS
+authors: [ Echo ]
+description: A Rank plugin made by Echo
+
+commands:
+  rank:
+    description: set the players rank
+    aliases:
+    - rnk

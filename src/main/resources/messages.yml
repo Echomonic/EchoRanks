@@ -1,0 +1,3 @@
+PermissionMessages:
+  NoPerm: '&cYou are not allowed to preform this command!'
+  NotPlayer: '&cYou must be a player to preform this command!'
